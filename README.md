@@ -22,7 +22,7 @@
 - 🎨 Crafting **modern, responsive** websites & mobile apps
 - 🛠 **HTML | CSS | JavaScript | Dart | Flutter | PHP | SQL | XAMPP**
 - 📐 **UI/UX Design with Figma**
-- 📧 **fondomohamed2006@gmail.com**
+- 📧 **mohamedfondo2006@gmail.com**
 
 ---
 
